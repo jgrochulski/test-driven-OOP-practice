@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1645925560938" clover="3.2.0">
+  <project timestamp="1645925560938" name="All files">
+    <metrics statements="38" coveredstatements="38" conditionals="12" coveredconditionals="12" methods="9" coveredmethods="9" elements="59" coveredelements="59" complexity="0" loc="38" ncloc="38" packages="1" files="1" classes="1"/>
+    <file name="LinkedList.js" path="/Users/jgrochulski/Development/sandbox/OOP/LinkedList.js">
+      <metrics statements="38" coveredstatements="38" conditionals="12" coveredconditionals="12" methods="9" coveredmethods="9"/>
+      <line num="3" count="15" type="stmt"/>
+      <line num="4" count="15" type="stmt"/>
+      <line num="8" count="42" type="stmt"/>
+      <line num="9" count="42" type="stmt"/>
+      <line num="10" count="42" type="stmt"/>
+      <line num="14" count="12" type="cond" truecount="4" falsecount="0"/>
+      <line num="16" count="6" type="stmt"/>
+      <line num="17" count="6" type="stmt"/>
+      <line num="18" count="6" type="stmt"/>
+      <line num="20" count="6" type="stmt"/>
+      <line num="24" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="26" count="3" type="stmt"/>
+      <line num="27" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="29" count="1" type="stmt"/>
+      <line num="30" count="1" type="stmt"/>
+      <line num="34" count="2" type="stmt"/>
+      <line num="35" count="2" type="stmt"/>
+      <line num="39" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="41" count="3" type="stmt"/>
+      <line num="42" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="44" count="1" type="stmt"/>
+      <line num="45" count="1" type="stmt"/>
+      <line num="49" count="1" type="stmt"/>
+      <line num="50" count="1" type="stmt"/>
+      <line num="51" count="1" type="stmt"/>
+      <line num="52" count="5" type="stmt"/>
+      <line num="53" count="5" type="stmt"/>
+      <line num="55" count="1" type="stmt"/>
+      <line num="56" count="1" type="stmt"/>
+      <line num="57" count="1" type="stmt"/>
+      <line num="63" count="43" type="stmt"/>
+      <line num="64" count="43" type="stmt"/>
+      <line num="68" count="1" type="stmt"/>
+      <line num="69" count="14" type="stmt"/>
+      <line num="70" count="14" type="stmt"/>
+      <line num="71" count="39" type="stmt"/>
+      <line num="73" count="14" type="stmt"/>
+      <line num="79" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
